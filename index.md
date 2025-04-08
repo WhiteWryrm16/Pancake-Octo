@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-Welcome i hope you have a great day 
+title: Welcome to my blog i hope you have a great day 
 ---
 
